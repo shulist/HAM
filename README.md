@@ -1,3 +1,3 @@
-# Home automation and Automation (HAM)
+# Home automation and Monitoring (HAM)
 Overview
 
