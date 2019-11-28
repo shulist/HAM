@@ -20,3 +20,5 @@ This set of applications is intended to provide a networked solution to the prob
 - [ ] install the Arduino software
 - [ ] test the radio functions
 - [ ] expand test to simple sensors
+- [ ] set up Raspberry Pi with [OpenHab](https://www.openhab.org/download/}
+- [ ] Test one node, the gateway and OpenHAB
