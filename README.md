@@ -10,11 +10,12 @@ This set of applications is intended to provide a networked solution to the prob
 |3| Nodes| running node compatible with Gateway_2.5| <b>Arduino Buono 3.3volts</b>| using RFM69 radio|multiple|
 
 ## Setting up the devices and Testing Communications
-[Test scripts for the Arduinos](https://github.com/andySigler/RFm69-Examples)
+
 
 ### Steps to get the Arduinos up and running
 - [ ] obtain all technical components
 - [ ] make up radio and Arduinos
+- [ ] [get test scripts for the Arduinos](https://github.com/andySigler/RFm69-Examples)
 - [ ] install the Arduino software
 - [ ] test the radio functions
 - [ ] expand test to simple sensors
