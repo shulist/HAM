@@ -14,6 +14,7 @@ This set of applications is intended to provide a networked solution to the prob
 
 ### Steps to get the Arduinos up and running
 - [ ] obtain all technical components
+- [ ] ![RFM69 Wiring Instructions]()
 - [ ] make up radio and Arduinos
 - [ ] [get test scripts for the Arduinos](https://github.com/andySigler/RFm69-Examples)
 - [ ] install the Arduino software
