@@ -10,7 +10,7 @@ This set of applications is intended to provide a networked solution to the prob
 |3| Nodes| running node compatible with G_2.5| <b>Arduino</b>| using RFM69 radio|
 
 ## Setting up the devices and Testing Communications
-[Test scripts for the Arduinos](https://github.com/andySigler/RFm69-Examples
+[Test scripts for the Arduinos](https://github.com/andySigler/RFm69-Examples)
 ###Steps to get the Arduinos up and running
 - [ ] obtain all technical components
 - [ ] make up radio and Arduinos
