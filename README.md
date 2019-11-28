@@ -11,6 +11,9 @@ This set of applications is intended to provide a networked solution to the prob
 
 ## Setting up the devices and Testing Communications
 [Test scripts for the Arduinos](https://github.com/andySigler/RFm69-Examples)
-- [x] Write the press release
-- [ ] Update the website
-- [ ] Contact the media 
+###Steps to get the Arduinos up and running
+- [ ] obtain all technical components
+- [ ] make up radio and Arduinos
+- [ ] install the Arduino software
+- [ ] test the radio functions
+- [ ] expand test to simple sensors
