@@ -7,4 +7,7 @@ This set of applications is intended to provide a networked solution to the prob
 |-----------|----------|-------------|----------|------------|
 |1| OpenHAB| using an MQTT binding| <b>Raspberry Pi</b>|Ethernet|
 |2| Gateway| running Gateway_2.5| <b>Arduino</b>| both RFM69 radio and Ethernet|
-|3| Nodes| running| <b>Arduino</b>| using RFM69 radio|
+|3| Nodes| running node compatible with G_2.5| <b>Arduino</b>| using RFM69 radio|
+
+## Setting up the devices and Testing Communications
+[Test scripts for the Arduinos](https://github.com/andySigler/RFm69-Examples)
