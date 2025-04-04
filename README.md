@@ -1,6 +1,7 @@
 # Home Automation and Monitoring (HAM)
 ## Overview
-This whole effort was inspired by https://github.com/computourist/RFM69-MQTT-client
+This whole effort was inspired by https://github.com/computourist/RFM69-MQTT-client and the forum at 
+https://homeautomation.proboards.com/board/2/openhab-rfm69-based-arduino
 This set of applications is intended to provide a networked solution to the problem of home automation and monitoring. The Three main applications that will accomplish this will be the following;
 
 |Item| Application|Description|Hardware|Communications|Quantity|
